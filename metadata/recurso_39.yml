@@ -6,7 +6,7 @@ resource_type: plataforma
 format: web
 language: pt-BR
 access_mode: livre
-estimated_duration: não identificado
+estimated_duration: Plataforma
 granularity: recurso estruturado
 target_competency: Implementar programas introdutórios com fluxo verificável de entrada,
   processamento e saída
@@ -19,3 +19,4 @@ alignment_strength: média
 summary: não identificado
 curation_notes: não identificado
 status_curatorial: aprovado
+programming_language: Múltiplas

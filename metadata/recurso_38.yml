@@ -6,7 +6,7 @@ resource_type: manual
 format: web
 language: pt-BR
 access_mode: não identificado
-estimated_duration: não identificado
+estimated_duration: 1 hora
 granularity: não identificado
 target_competency: Implementar programas introdutórios com fluxo verificável de entrada,
   processamento e saída
@@ -19,3 +19,4 @@ alignment_strength: baixa
 summary: não identificado
 curation_notes: não identificado
 status_curatorial: aprovado
+programming_language: Portugol
